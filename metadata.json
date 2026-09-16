@@ -1,0 +1,6 @@
+{
+  "name": "SkillGraph",
+  "description": "Find People You Need, Not Friends — AI-powered teammate matching platform for college students based on skill compatibility and team balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
